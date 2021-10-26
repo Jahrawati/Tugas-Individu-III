@@ -1,0 +1,32 @@
+# tugas-individu-3
+
+1	Kenapa kita pertama kali belajar programing language harus menggunakan “hello world”
+    	Sejarah Hello World adalah program komputer yang mengeluarkan atau menampilkan pesan “Hello World!”. 
+      Program semacam itu sangat sederhana di sebagian besar Bahasa pemrograman dan sering digunakan untuk
+      menggambarkan sintaks dasar Bahasa pemrograman. Mirip dengan filosofi telur dan anak ayam 
+      yang diceritakan oleh pecipta HELLO World, Brian Kernighan di atas, anak ayam tersebut berkata Hello World karena baru saja menetas dan mmelihat keindahan dunia.
+      Jadi menggunakan Hello World karena seorang programmer ingin memberikan informasi kepada orang lain bahwa program ini berhasil jalan dan memberikan informasi kepada orang lain.
+2 Arti dari => print() pada PL Python 
+    	Parameter 
+      Fungsi print() memiliki beberapa parameter yaitu sebagai berikut :
+      •	Object – object yang akan dicetak.  Tanda * menunjukkan jumlah objek bisa satu satu atau lebih.
+      •	Sep – karakter pemisah anatar objek. Defaultnya adalah spasi.
+      •	End – karakter diakhir baris. Defaultnya adalah newline.
+      •	File – tempat kemana objek akan ditampilkan/ditulis. Defaultnya adalah layer (sys.stdout)
+      •	Flush – bila True, maka stream objek akan diflush. Defaultnya adalah False.
+3 Arti dari => print(“Hello world”) pada PL Python
+      Mencetak Hello World dengan Hello World sebagai parameter pada fungsi print
+4	Cara eksekusi PL Python pada
+     a.Pada Terminal
+      Lihat folder dengan perintah DIR setelah itu masuk ke folder tempat kita menyimpan 
+       filenya dengan perintah “cd” disini saya menyimpan filenya di folder desktop dan 
+       python python, maka commandnya, cd Desktop => cd python, setelah itu DIR untuk 
+       melihat dan untuk menjalankan dengan perintah python “nama file”.py contoh  python hello.py.
+     b.	Pada VS-Code
+        	Jika ingin menjalankan program di VScode bisa dengan menglik tombol run pada 
+          ujung kanan atas atau bisa dengn shortcut keyboard “ctrl + alt + n”.
+        
+     
+
+
+        
